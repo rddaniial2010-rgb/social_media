@@ -1,0 +1,71 @@
+.profile-container{
+
+     background-color: #242c3b;
+      border-radius: 30px;
+     box-shadow: 10px 10px 20px black;
+    padding: 20px;
+
+}
+
+.picture{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.khabib-big{
+    width: 35%;
+}
+
+.main-name{
+    font-size: 50px;
+    color: white;
+
+}
+
+.details{
+    margin: 50px 0;
+    padding-left: 60px;
+}
+
+.my-posts{
+   color: white;
+   margin-bottom: 20px;
+}
+
+.add-text{
+     
+}
+
+.add-post{
+
+}
+
+.post{
+
+}
+
+.small-khabib{
+
+}
+
+.name{
+    
+}
+
+.some-text{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.small-khabib{
+    width: 9%;
+}
