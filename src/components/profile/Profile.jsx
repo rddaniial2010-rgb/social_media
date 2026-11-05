@@ -1,6 +1,7 @@
 import React from 'react';
 import './Profile.css'
 import khabib from './khabib-nurmagomedov-2.jpg'
+import Post from './posts/Post'
 
 export default function Profile(){
     return(
@@ -17,12 +18,10 @@ export default function Profile(){
                 </form>
                 
             </div>
-            <div className='post'>
-                <img className='small-khabib' src={khabib} alt="khabib" />
-                <p className='name'>Khabib Nurmagomedov</p>
-                <p className='some-text'>Khabib Nurmagomedov is a retired Russian mixed martial artist who finished his career with a flawless, undefeated professional record of 29 wins and 0</p>
-
-            </div>
+        <Post message=" Khabib Nurmagomedov is a retired Russian mixed martial artist who finished his career with a flawless, undefeated professional record of 29 wins and 0"/>
+         <Post message="Undefeated Record: He retired with a perfect professional record of 29–0"/>
+          <Post message="He is the longest-reigning UFC Lightweight Champion in history, holding the title for 1,134 days"/>
+            
         </div>
        
     )
