@@ -26,7 +26,10 @@ root.render(
 // console.log(football.team.midfield)
 
 // console.dir(Window)
-
+const name="makhachev"
+const fruit="apple"
+const number=21
+console.log(`my name is ${name} i love ${fruit} i fould eat ${number} items`)
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
