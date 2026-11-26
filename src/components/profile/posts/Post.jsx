@@ -5,9 +5,9 @@ import './post.css'
 export default function Post(props){
     return(
         <div>
-             <img className='small-khabib' src={khabib} alt="khabib" />
+             <img className='small-khabib' src={props.img} alt="khabib" />
                 <span className='name'>Khabib Nurmagomedov</span>
-                <p className='some-text'>{props.message}</p>
+                <p className='some-text'>{props.message}-0po78lu;</p>
                 
         </div>
     )

@@ -1,0 +1,45 @@
+
+
+
+
+.dialogs-messages{
+    display: flex;
+    flex-direction: column;
+     width: 50%;
+     height: 30vh;
+     justify-content: space-between;
+}
+
+.messages{
+    color: white;
+    padding: 30px 10px;
+    background-color: darkgrey;
+    border-radius: 20px;
+}
+
+.dialogs-input{
+     width: 50%;
+     flex-grow: 1;
+     display: flex;
+     justify-content: space-evenly;
+     
+}
+
+.answer{
+    padding: 20px;
+    width: 40%;
+    border-radius: 10px;
+}
+
+.send{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dialogs-names p{
+    color: white;
+    padding: 30px 0;
+    font-size: 20px;
+
+
+}

@@ -45,6 +45,11 @@ body {
 .logo{
   width: 100px;
 }
+
+.notfound-text{
+  color: white;
+  font-size: 22px;
+}
 /* 
 .App-logo {
   height: 40vmin;

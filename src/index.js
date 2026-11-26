@@ -11,6 +11,22 @@ root.render(
   </React.StrictMode>
 );
 
+// let football = {
+//   team: "Gersokipou FC",
+//   amount: 11,
+//   coach: "Mike Thoma",
+//   team: {
+//     atacker: 1,
+//     defenders: 4,
+//     midfield: 5,
+//     goalkeeper: 1
+//   }
+// }
+// football.goalkeeper="Stavros"
+// console.log(football.team.midfield)
+
+// console.dir(Window)
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
